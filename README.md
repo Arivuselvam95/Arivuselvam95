@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🎓+Computer+Science+Engineering+Student;💻+CGPA%3A+8.86%2F10+%7C+Passionate+Developer;🌱+Currently+exploring+AI%2FML+%26+Cloud+Technologies;🎯+700%2B+LeetCode+Problems+%7C+100-day+Streak+Achiever" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=🎓+Computer+Science+Engineering+Student;💻+CGPA%3A+8.86%2F10+%7C+Passionate+Developer;🌱+Currently+exploring+AI%2FML+%26+Cloud+Technologies;🎯+800%2B+LeetCode+Problems+%7C+100-day+Streak+Achiever" alt="About Me Animation" />
 </div>
 
 <br>
