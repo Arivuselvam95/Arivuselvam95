@@ -46,7 +46,7 @@
 
 ```mermaid
 graph TD
-    A[🌟 ARIVUSELVAM'S TECH UNIVERSE 🌟] --> B[🧠 Problem Solving<br>700+ LeetCode]
+    A[🌟 ARIVUSELVAM'S TECH UNIVERSE 🌟] --> B[🧠 Problem Solving<br>800+ LeetCode]
     A --> C[📈 Data Structures & Algorithms<br>Core CS Skills]
     C --> D[🌐 Full Stack Web Development]
     C --> E[📊 Data & Analytics]
@@ -64,10 +64,12 @@ graph TD
     G --> N[🐍 Python]
     G --> O[⚡ Node.js]
     G --> P[🍃 MongoDB]
+    G --> W[📅 Postgres]
     G --> Q[📡 REST API]
     
     H --> R[🔧 Git/GitHub]
-    
+    H --> V[👁️ Postman]
+
     E --> S[📈 Power BI]
     
     A --> T[☕ Java<br>General Purpose, Backend]
@@ -87,10 +89,12 @@ graph TD
     style L fill:#475569,stroke:#60a5fa
     style M fill:#475569,stroke:#60a5fa
     style N fill:#475569,stroke:#34d399
+    style W fill:#475569,stroke:#34d399
     style O fill:#475569,stroke:#34d399
     style P fill:#475569,stroke:#34d399
     style Q fill:#475569,stroke:#34d399
     style R fill:#475569,stroke:#a78bfa
+    style V fill:#475569,stroke:#a78bfa
     style S fill:#475569,stroke:#fbbf24
     style T fill:#1e293b,stroke:#f43f5e
     style U fill:#1e293b,stroke:#84cc16
